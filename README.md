@@ -1,1 +1,2 @@
-# Network_Analysis
+# **Network Analysis and Keyword Co-Occurrence Analysis**
+This project analyzed five years of academic publication data by extracting and cleaning author-assigned keywords from scientific articles. Using Python and the NetworkX library, a co-occurrence network was built to visualize relationships between frequently appearing keyword pairs. Centrality scores and community detection (Louvain method) were applied to identify key topics and clusters, revealing research trends over time.
